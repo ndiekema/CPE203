@@ -1,2 +1,3 @@
-# CPE203
-Cal Poly CPE203: Project-Based  Object-Oriented Programming and Design
+# CPE203: Project-Based Object-Oriented Programming and Design
+
+Java-based programming class taken at California Polytechnic University
